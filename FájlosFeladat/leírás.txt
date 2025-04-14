@@ -1,0 +1,5 @@
+Olvassuk ki a számokat a txt-ből
+Irjuk ki őket(rendzetlen)
+Rendezzük sorrendbe
+Írjuk ki őket(Rendezett)
+Adjuk össze a számokat és írjuk ki a végeredményt

@@ -1,0 +1,7 @@
+B:\Gyakorlás\1.óra\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+B:\Gyakorlás\1.óra\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+B:\Gyakorlás\1.óra\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+B:\Gyakorlás\1.óra\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+B:\Gyakorlás\1.óra\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\1.óra\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+B:\Gyakorlás\1.óra\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

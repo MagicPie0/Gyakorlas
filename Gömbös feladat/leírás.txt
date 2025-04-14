@@ -1,0 +1,18 @@
+Készíts egy konzolos alkalmazást, amely kiszámítja egy kör kerületét és területét, valamint egy gömb térfogatát, a megadott sugár alapján.
+
+Követelmények: 
+-Készíts egy CircleCalculator nevű különálló class-t, amiben legyen:
+
+-Egy metódus a kör kerületének kiszámítására: GetCircumference(double radius)
+
+-Egy metódus a kör területére: GetArea(double radius)
+
+-Készíts egy SphereCalculator nevű másik különálló class-t, amiben legyen:
+
+-Egy metódus a gömb térfogatának számítására: GetVolume(double radius)
+
+-Kérd be a sugarat a felhasználótól.
+
+-Használd a fenti class-ok metódusait.
+
+-Írd ki a számításokat szépen formázva.
