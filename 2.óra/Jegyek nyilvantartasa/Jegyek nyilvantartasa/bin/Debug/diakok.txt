@@ -1,0 +1,4 @@
+Teszt Elek; 4,3,2,5,1
+Baszt Alak; 4,2,1,3,5
+Szex Elek; 1,2,3,4,5
+Fasz István;

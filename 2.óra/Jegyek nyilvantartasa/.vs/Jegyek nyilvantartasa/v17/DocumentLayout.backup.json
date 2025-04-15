@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Gyakorl\u00E1s\\Gyakorlas\\2.\u00F3ra\\Jegyek nyilvantartasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC54B0B-DDD5-43C9-A712-C12567F8E65A}|Jegyek nyilvantartasa\\Jegyek nyilvantartasa.csproj|b:\\gyakorl\u00E1s\\gyakorlas\\2.\u00F3ra\\jegyek nyilvantartasa\\jegyek nyilvantartasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC54B0B-DDD5-43C9-A712-C12567F8E65A}|Jegyek nyilvantartasa\\Jegyek nyilvantartasa.csproj|solutionrelative:jegyek nyilvantartasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\2.\u00F3ra\\Jegyek nyilvantartasa\\Jegyek nyilvantartasa\\Program.cs",
+              "RelativeDocumentMoniker": "Jegyek nyilvantartasa\\Program.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\2.\u00F3ra\\Jegyek nyilvantartasa\\Jegyek nyilvantartasa\\Program.cs",
+              "RelativeToolTip": "Jegyek nyilvantartasa\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:22:24.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

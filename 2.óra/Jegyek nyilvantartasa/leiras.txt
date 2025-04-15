@@ -1,0 +1,56 @@
+Programozás feladat – Jegyek nyilvántartása (C# console)
+Témakörök: fájlkezelés, osztályok, listák, konzolos be-/kimenet
+
+
+
+Feladat leírása
+Készíts egy konzolos alkalmazást, amely egy iskolai osztály tanulóinak jegyeit tartja nyilván!
+
+A program indításakor töltse be a tanulók adatait egy fájlból, majd biztosítson lehetőséget a következő műveletekre a felhasználó számára:
+
+Új tanuló hozzáadása
+
+Jegy hozzáadása egy meglévő tanulóhoz
+
+Egy tanuló jegyeinek megjelenítése
+
+Az összes tanuló és jegyeik kilistázása
+
+Kilépéskor a fájl frissítése az aktuális adatokkal
+
+A program működését a felhasználónak egyértelmű szöveges menü segítse.
+
+
+
+Adattárolás
+A tanulók adatait egy diakok.txt nevű szöveges fájlban tárold.
+
+Minden tanuló egy sorban szerepeljen, a következő formátumban:
+
+Vezetéknév Keresztnév;5,4,3
+
+A név és a jegyek között pontosvessző (;) legyen. A jegyek vesszővel elválasztva szerepeljenek.
+
+
+
+Követelmények
+A program tartalmazzon legalább egy osztályt, amely egy tanulót reprezentál (pl. Diak).
+
+A jegyeket Listában vagy hasonló gyűjteményben tárold.
+
+Legyen lehetőség új diákot hozzáadni és jegyeket módosítani, bővíteni.
+
+Használj fájlműveleteket az adatok betöltéséhez és mentéséhez.
+
+A fájlkezelés történjen olvasással és írással is (nem csak hozzáfűzéssel).
+
+A menürendszer legyen ismétlődő, tehát a program a műveletek után ne záródjon be automatikusan.
+
+
+
+Javaslatok a megvalósításhoz
+Induláskor olvasd be a fájlt, és hozd létre az Diak objektumokat.
+
+Művelet végén kérdezd meg, mit szeretne tenni a felhasználó.
+
+Hibakezelés: ügyelj rá, hogy ne omoljon össze a program rossz bemenet esetén.

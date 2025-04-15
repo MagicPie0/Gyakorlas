@@ -1,0 +1,7 @@
+B:\Gyakorlás\Gyakorlas\2.óra\Jegyek nyilvantartasa\Jegyek nyilvantartasa\bin\Debug\Jegyek nyilvantartasa.exe.config
+B:\Gyakorlás\Gyakorlas\2.óra\Jegyek nyilvantartasa\Jegyek nyilvantartasa\bin\Debug\Jegyek nyilvantartasa.exe
+B:\Gyakorlás\Gyakorlas\2.óra\Jegyek nyilvantartasa\Jegyek nyilvantartasa\bin\Debug\Jegyek nyilvantartasa.pdb
+B:\Gyakorlás\Gyakorlas\2.óra\Jegyek nyilvantartasa\Jegyek nyilvantartasa\obj\Debug\Jegyek nyilvantartasa.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\2.óra\Jegyek nyilvantartasa\Jegyek nyilvantartasa\obj\Debug\Jegyek nyilvantartasa.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\Gyakorlas\2.óra\Jegyek nyilvantartasa\Jegyek nyilvantartasa\obj\Debug\Jegyek nyilvantartasa.exe
+B:\Gyakorlás\Gyakorlas\2.óra\Jegyek nyilvantartasa\Jegyek nyilvantartasa\obj\Debug\Jegyek nyilvantartasa.pdb

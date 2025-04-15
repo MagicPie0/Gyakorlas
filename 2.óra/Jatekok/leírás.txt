@@ -1,0 +1,37 @@
+Készíts egy konzolos alkalmazást, amellyel a felhasználó nyilvántarthatja a kedvenc videojátékait!
+
+A program lehetővé teszi a következőket:
+
+-Új játék hozzáadása a listához
+
+-A már felvett játékok listázása
+
+-Az adatok mentése és betöltése fájlból
+
+Adattárolás
+Az adatokat egy jatekok.txt nevű fájlban tárold.
+
+Minden sor egy játékot jelöl, ilyen formában:
+
+JátékCím;Kategória;KiadásiÉv
+
+Követelmények
+Hozz létre egy Jatek nevű osztályt, amely tartalmazza:
+
+-a játék címét (string),
+
+-a kategóriát (string),
+
+-és a kiadási évet (int).
+
+Használj List<Jatek> típusú gyűjteményt a játékok kezelésére.
+
+A program induláskor olvassa be a jatekok.txt tartalmát, és töltse be a listát.
+
+Menürendszer segítségével tedd lehetővé:
+
+-Új játék felvételét
+
+-A játékok listázását
+
+-Kilépés (ekkor a program mentse el a listát a fájlba)

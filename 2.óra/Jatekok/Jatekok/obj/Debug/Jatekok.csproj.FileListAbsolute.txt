@@ -1,0 +1,7 @@
+B:\Gyakorlás\Gyakorlas\2.óra\Jatekok\Jatekok\bin\Debug\Jatekok.exe.config
+B:\Gyakorlás\Gyakorlas\2.óra\Jatekok\Jatekok\bin\Debug\Jatekok.exe
+B:\Gyakorlás\Gyakorlas\2.óra\Jatekok\Jatekok\bin\Debug\Jatekok.pdb
+B:\Gyakorlás\Gyakorlas\2.óra\Jatekok\Jatekok\obj\Debug\Jatekok.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\2.óra\Jatekok\Jatekok\obj\Debug\Jatekok.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\Gyakorlas\2.óra\Jatekok\Jatekok\obj\Debug\Jatekok.exe
+B:\Gyakorlás\Gyakorlas\2.óra\Jatekok\Jatekok\obj\Debug\Jatekok.pdb
