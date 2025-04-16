@@ -1,0 +1,30 @@
+Készíts egy konzolos alkalmazást, amelyben a felhasználó megadhatja a kedvenc gyümölcseit, majd ezeket a program elmenti egy fájlba, és később ki is tudja listázni.
+
+Mit kell tudnia a programnak?
+Új gyümölcs hozzáadása (név + szín megadása)
+
+A gyümölcsök kilistázása
+
+Kilépéskor mentés fájlba
+
+Az adatokat egy gyumolcsok.txt fájlban tárold, így:
+Alma;piros
+Banán;sárga
+Körte;zöld
+
+Követelmények
+Hozz létre egy Gyumolcs nevű osztályt, amely két adatot tárol:
+
+Nev (string)
+
+Szin (string)
+
+Használj List<Gyumolcs> típust a gyümölcsök gyűjtésére.
+
+A program indításkor betölti az adatokat a fájlból (ha van), majd menüt kínál:
+
+1 – Új gyümölcs hozzáadása
+
+2 – Gyümölcsök listázása
+
+0 – Kilépés és mentés fájlba

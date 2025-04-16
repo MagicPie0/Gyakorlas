@@ -1,0 +1,7 @@
+B:\Gyakorlás\Gyakorlas\3.óra\Osztalyok\Osztalyok\bin\Debug\Osztalyok.exe.config
+B:\Gyakorlás\Gyakorlas\3.óra\Osztalyok\Osztalyok\bin\Debug\Osztalyok.exe
+B:\Gyakorlás\Gyakorlas\3.óra\Osztalyok\Osztalyok\bin\Debug\Osztalyok.pdb
+B:\Gyakorlás\Gyakorlas\3.óra\Osztalyok\Osztalyok\obj\Debug\Osztalyok.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\3.óra\Osztalyok\Osztalyok\obj\Debug\Osztalyok.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\Gyakorlas\3.óra\Osztalyok\Osztalyok\obj\Debug\Osztalyok.exe
+B:\Gyakorlás\Gyakorlas\3.óra\Osztalyok\Osztalyok\obj\Debug\Osztalyok.pdb

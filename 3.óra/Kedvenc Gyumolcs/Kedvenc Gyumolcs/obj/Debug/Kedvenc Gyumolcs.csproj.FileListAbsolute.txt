@@ -1,0 +1,7 @@
+B:\Gyakorlás\Gyakorlas\3.óra\Kedvenc Gyumolcs\Kedvenc Gyumolcs\bin\Debug\Kedvenc Gyumolcs.exe.config
+B:\Gyakorlás\Gyakorlas\3.óra\Kedvenc Gyumolcs\Kedvenc Gyumolcs\bin\Debug\Kedvenc Gyumolcs.exe
+B:\Gyakorlás\Gyakorlas\3.óra\Kedvenc Gyumolcs\Kedvenc Gyumolcs\bin\Debug\Kedvenc Gyumolcs.pdb
+B:\Gyakorlás\Gyakorlas\3.óra\Kedvenc Gyumolcs\Kedvenc Gyumolcs\obj\Debug\Kedvenc Gyumolcs.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\3.óra\Kedvenc Gyumolcs\Kedvenc Gyumolcs\obj\Debug\Kedvenc Gyumolcs.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\Gyakorlas\3.óra\Kedvenc Gyumolcs\Kedvenc Gyumolcs\obj\Debug\Kedvenc Gyumolcs.exe
+B:\Gyakorlás\Gyakorlas\3.óra\Kedvenc Gyumolcs\Kedvenc Gyumolcs\obj\Debug\Kedvenc Gyumolcs.pdb

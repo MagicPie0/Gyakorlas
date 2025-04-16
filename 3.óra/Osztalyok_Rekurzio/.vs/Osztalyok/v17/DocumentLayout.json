@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Gyakorl\u00E1s\\Gyakorlas\\3.\u00F3ra\\Osztalyok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8E8FCD-8F65-4311-B3FF-0D399898EDF1}|Osztalyok\\Osztalyok.csproj|b:\\gyakorl\u00E1s\\gyakorlas\\3.\u00F3ra\\osztalyok\\osztalyok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8E8FCD-8F65-4311-B3FF-0D399898EDF1}|Osztalyok\\Osztalyok.csproj|solutionrelative:osztalyok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\3.\u00F3ra\\Osztalyok\\Osztalyok\\Program.cs",
+              "RelativeDocumentMoniker": "Osztalyok\\Program.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\3.\u00F3ra\\Osztalyok\\Osztalyok\\Program.cs",
+              "RelativeToolTip": "Osztalyok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:29:15.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

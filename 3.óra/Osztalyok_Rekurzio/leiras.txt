@@ -1,0 +1,5 @@
+Itt nincs rendes feladat, ebbe a következőkröl volt szó:
+-Polimorfózis
+-Öröklés
+-Rekurzió
+Fontos: Ne futtasd le, mert a rekurzió végtelenítve van!
