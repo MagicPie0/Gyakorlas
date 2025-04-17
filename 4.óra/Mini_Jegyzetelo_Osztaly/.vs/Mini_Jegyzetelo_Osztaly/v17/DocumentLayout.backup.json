@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Gyakorl\u00E1s\\Gyakorlas\\4.\u00F3ra\\Mini_Jegyzetelo_Osztaly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F85FF5-31A2-4692-AE95-6CDB12A4EB32}|Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly.csproj|b:\\gyakorl\u00E1s\\gyakorlas\\4.\u00F3ra\\mini_jegyzetelo_osztaly\\mini_jegyzetelo_osztaly\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F85FF5-31A2-4692-AE95-6CDB12A4EB32}|Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly.csproj|solutionrelative:mini_jegyzetelo_osztaly\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F85FF5-31A2-4692-AE95-6CDB12A4EB32}|Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly.csproj|b:\\gyakorl\u00E1s\\gyakorlas\\4.\u00F3ra\\mini_jegyzetelo_osztaly\\mini_jegyzetelo_osztaly\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0F85FF5-31A2-4692-AE95-6CDB12A4EB32}|Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly.csproj|solutionrelative:mini_jegyzetelo_osztaly\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\4.\u00F3ra\\Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Mini_Jegyzetelo_Osztaly\\MainWindow.xaml",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\4.\u00F3ra\\Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly\\MainWindow.xaml",
+              "RelativeToolTip": "Mini_Jegyzetelo_Osztaly\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T18:10:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\4.\u00F3ra\\Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Mini_Jegyzetelo_Osztaly\\MainWindow.xaml.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\4.\u00F3ra\\Mini_Jegyzetelo_Osztaly\\Mini_Jegyzetelo_Osztaly\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Mini_Jegyzetelo_Osztaly\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:10:01.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

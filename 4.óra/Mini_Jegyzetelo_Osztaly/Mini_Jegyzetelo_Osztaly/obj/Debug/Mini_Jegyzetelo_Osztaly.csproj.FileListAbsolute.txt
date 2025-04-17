@@ -1,0 +1,15 @@
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\bin\Debug\Mini_Jegyzetelo_Osztaly.exe.config
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\bin\Debug\Mini_Jegyzetelo_Osztaly.exe
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\bin\Debug\Mini_Jegyzetelo_Osztaly.pdb
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\MainWindow.g.cs
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\App.g.cs
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly_MarkupCompile.cache
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly_MarkupCompile.lref
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\MainWindow.baml
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly.g.resources
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly.Properties.Resources.resources
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly.csproj.GenerateResource.cache
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly.exe
+B:\Gyakorlás\Gyakorlas\4.óra\Mini_Jegyzetelo_Osztaly\Mini_Jegyzetelo_Osztaly\obj\Debug\Mini_Jegyzetelo_Osztaly.pdb

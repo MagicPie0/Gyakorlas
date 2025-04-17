@@ -1,0 +1,43 @@
+Feladat: Jegyzet Mentő App
+Téma: WPF + fájlkezelés + osztály
+Típus: Mini jegyzetkészítő app
+
+Feladat leírás
+Készíts egy WPF alkalmazást, amiben a felhasználó:
+
+-beírhat egy rövid jegyzetet
+
+-rákattinthat egy „Mentés” gombra
+
+-a program elmenti a jegyzetet egy .txt fájlba
+
+-majd később vissza is tudja tölteni azt
+
+Felület (WPF XAML)
+-TextBox – ide írja a jegyzetet
+
+-Gomb 1 – „Mentés fájlba”
+
+-Gomb 2 – „Betöltés fájlból”
+
+Funkciók
+-A mentés egy notes.txt fájlba történik az alkalmazás mappájába
+
+-Betöltéskor a notes.txt tartalma visszatöltődik a TextBoxba
+
+Extra – Osztály Használat
+Hozz létre egy egyszerű osztályt:
+
+class Jegyzet
+{
+    public string Tartalom { get; set; }
+
+    public void Ment(string fajlNev) { ... }
+
+    public static Jegyzet Betolt(string fajlNev) { ... }
+}
+
+Bónusz ötlet, ha van még időd
+-Ne engedd menteni, ha üres a TextBox
+
+-Jelezz vissza MessageBox-szal mentés vagy betöltés után
