@@ -1,0 +1,7 @@
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Szogyakorisag_Szamolo\Szogyakorisag_Szamolo\bin\Debug\Szogyakorisag_Szamolo.exe.config
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Szogyakorisag_Szamolo\Szogyakorisag_Szamolo\bin\Debug\Szogyakorisag_Szamolo.exe
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Szogyakorisag_Szamolo\Szogyakorisag_Szamolo\bin\Debug\Szogyakorisag_Szamolo.pdb
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Szogyakorisag_Szamolo\Szogyakorisag_Szamolo\obj\Debug\Szogyakorisag_Szamolo.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Szogyakorisag_Szamolo\Szogyakorisag_Szamolo\obj\Debug\Szogyakorisag_Szamolo.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Szogyakorisag_Szamolo\Szogyakorisag_Szamolo\obj\Debug\Szogyakorisag_Szamolo.exe
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Szogyakorisag_Szamolo\Szogyakorisag_Szamolo\obj\Debug\Szogyakorisag_Szamolo.pdb

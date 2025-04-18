@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Gyakorl\u00E1s\\Gyakorlas\\K\u00FCl\u00F6n Gyakorl\u00E1s\\Szogyakorisag_Szamolo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123C1D5E-F648-4D47-9191-847C8BF6C353}|Szogyakorisag_Szamolo\\Szogyakorisag_Szamolo.csproj|b:\\gyakorl\u00E1s\\gyakorlas\\k\u00FCl\u00F6n gyakorl\u00E1s\\szogyakorisag_szamolo\\szogyakorisag_szamolo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123C1D5E-F648-4D47-9191-847C8BF6C353}|Szogyakorisag_Szamolo\\Szogyakorisag_Szamolo.csproj|solutionrelative:szogyakorisag_szamolo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\K\u00FCl\u00F6n Gyakorl\u00E1s\\Szogyakorisag_Szamolo\\Szogyakorisag_Szamolo\\Program.cs",
+              "RelativeDocumentMoniker": "Szogyakorisag_Szamolo\\Program.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\K\u00FCl\u00F6n Gyakorl\u00E1s\\Szogyakorisag_Szamolo\\Szogyakorisag_Szamolo\\Program.cs",
+              "RelativeToolTip": "Szogyakorisag_Szamolo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:03:00.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
