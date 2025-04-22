@@ -1,0 +1,7 @@
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny\bin\Debug\Osztalyok_RekurzivFugveny.exe.config
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny\bin\Debug\Osztalyok_RekurzivFugveny.exe
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny\bin\Debug\Osztalyok_RekurzivFugveny.pdb
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny\obj\Debug\Osztalyok_RekurzivFugveny.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny\obj\Debug\Osztalyok_RekurzivFugveny.csproj.CoreCompileInputs.cache
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny\obj\Debug\Osztalyok_RekurzivFugveny.exe
+B:\Gyakorlás\Gyakorlas\Külön Gyakorlás\Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny\obj\Debug\Osztalyok_RekurzivFugveny.pdb

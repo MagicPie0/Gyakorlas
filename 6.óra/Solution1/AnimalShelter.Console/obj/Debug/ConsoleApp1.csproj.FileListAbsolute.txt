@@ -1,0 +1,2 @@
+B:\Gyakorlás\Gyakorlas\6.óra\Solution1\AnimalShelter.Console\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+B:\Gyakorlás\Gyakorlas\6.óra\Solution1\AnimalShelter.Console\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache

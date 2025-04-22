@@ -1,0 +1,16 @@
+Az adatokat elmentjük fájlba is, és egy külön WPF felület megjeleníti az egyik állat adatait látványosan. 
+
+Funkcionális követelmények:
+Konzolos rész (OOP fókusz):
+ Animal absztrakt osztály
+
+Name, Age, Species
+
+Speak() → abstract
+
+Describe() → virtual
+
+ Legalább 2 leszármazott osztály
+(pl. Dog, Cat), egyedi Speak() implementációval
+
+ Bitshift művelet: az Age balratolása 1-gyel

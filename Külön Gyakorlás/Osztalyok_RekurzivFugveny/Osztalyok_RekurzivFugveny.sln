@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osztalyok_RekurzivFugveny", "Osztalyok_RekurzivFugveny\Osztalyok_RekurzivFugveny.csproj", "{3AF0CB3E-BFEC-48B8-9A39-AB6CD2E81541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF0CB3E-BFEC-48B8-9A39-AB6CD2E81541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF0CB3E-BFEC-48B8-9A39-AB6CD2E81541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF0CB3E-BFEC-48B8-9A39-AB6CD2E81541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF0CB3E-BFEC-48B8-9A39-AB6CD2E81541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5566E1-5A07-4021-B2B0-395CB3211EB3}
+	EndGlobalSection
+EndGlobal
