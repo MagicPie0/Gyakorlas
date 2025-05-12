@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Könyvtárkatalógus"
+        Height="450"
+        Width="800">
+    <Grid>
+        <DataGrid x:Name="KonyvLista" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,0,142"/>
+        <Button x:Name="save_button" Content="Mentés" HorizontalAlignment="Center" Margin="0,335,0,0" VerticalAlignment="Top" Height="54" Width="122" Click="save_button_Click"/>
+        <Button x:Name="add_button" Content="Hozzáadás" HorizontalAlignment="Left" Margin="88,335,0,0" VerticalAlignment="Top" Height="54" Width="122" Click="add_button_Click"/>
+        <Button x:Name="delete_button" Content="Törlés" HorizontalAlignment="Left" Margin="625,303,0,0" VerticalAlignment="Top" Height="54" Width="122"/>
+        <Button x:Name="filtration_button" Content="Szűrés" HorizontalAlignment="Left" Margin="625,362,0,0" VerticalAlignment="Top" Height="54" Width="122"/>
+        <Grid x:Name="urlap" Visibility="Hidden">
+            <Rectangle Fill="White" HorizontalAlignment="Center" Height="303" Stroke="Black" VerticalAlignment="Center" Width="506"/>
+            <Button x:Name="urlap_ok" Content="Hozzáadás" HorizontalAlignment="Center" Margin="0,316,0,0" VerticalAlignment="Top" Height="41" Width="132" Click="urlap_ok_Click"/>
+            <Button x:Name="urlap_bezaras" Content="Bezárás" HorizontalAlignment="Left" Margin="510,78,0,0" VerticalAlignment="Top" Height="41" Width="132" Click="urlap_bezaras_Click"/>
+            <TextBox x:Name="urlap_bevitel_cim" HorizontalAlignment="Center" Margin="0,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+            <TextBox x:Name="urlap_bevitel_oldalSzam" HorizontalAlignment="Center" Margin="0,191,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+            <TextBox x:Name="urlap_bevitel_szerzo" HorizontalAlignment="Center" Margin="0,165,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+            <Label Content="Cím:" HorizontalAlignment="Left" Margin="232,137,0,0" VerticalAlignment="Top"/>
+            <Label Content="Szerző:" HorizontalAlignment="Left" Margin="232,165,0,0" VerticalAlignment="Top"/>
+            <Label Content="Oldalszám:" HorizontalAlignment="Left" Margin="232,191,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="urlap_bevitel_elolvasva" Content="Elolvastad?" HorizontalAlignment="Center" Margin="0,226,0,0" VerticalAlignment="Top"/>
+        </Grid>
+
+    </Grid>
+</Window>

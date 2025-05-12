@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5BC041-633A-4945-B570-5B596A7E5D1E}|WpfApp1\\WpfApp1.csproj|B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5BC041-633A-4945-B570-5B596A7E5D1E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FD74E-9879-4C09-B4C1-78AABCB25FA2}|ConsoleApp1\\ConsoleApp1.csproj|b:\\gyakorl\u00E1s\\gyakorlas\\9.\u00F3ra\\consoleapp1\\consoleapp1\\metodusok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FD74E-9879-4C09-B4C1-78AABCB25FA2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\metodusok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FD74E-9879-4C09-B4C1-78AABCB25FA2}|ConsoleApp1\\ConsoleApp1.csproj|B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\consoleapp1\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FD74E-9879-4C09-B4C1-78AABCB25FA2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5BC041-633A-4945-B570-5B596A7E5D1E}|WpfApp1\\WpfApp1.csproj|B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C5BC041-633A-4945-B570-5B596A7E5D1E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FD74E-9879-4C09-B4C1-78AABCB25FA2}|ConsoleApp1\\ConsoleApp1.csproj|B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FD74E-9879-4C09-B4C1-78AABCB25FA2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 352,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Metodusok.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\ConsoleApp1\\Metodusok.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Metodusok.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\ConsoleApp1\\Metodusok.cs",
+              "RelativeToolTip": "ConsoleApp1\\Metodusok.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:00:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T16:45:42.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:45:41.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\ConsoleApp1\\Auto.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Auto.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\ConsoleApp1\\Auto.cs",
+              "RelativeToolTip": "ConsoleApp1\\Auto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:16:36.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "B:\\Gyakorl\u00E1s\\Gyakorlas\\9.\u00F3ra\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:15:47.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
