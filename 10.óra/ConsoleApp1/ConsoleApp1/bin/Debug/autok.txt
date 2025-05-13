@@ -1,0 +1,3 @@
+id,márka,szín,évjárat,ár
+1,fasz1,pina1,2000,200000
+2,fasz2,pina2,2003,400000
